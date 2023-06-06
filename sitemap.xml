@@ -67,6 +67,9 @@
 		<priority>0.80</priority>
 	</url>
 
+
+<!-- VIDEO DETAILS FOR SITEMAP TO RANKING-->
+
   <url>
     <loc>https://5gucl-idrbt.github.io/lab/</loc>
     <changefreq>weekly</changefreq>
