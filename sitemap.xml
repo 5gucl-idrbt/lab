@@ -53,7 +53,8 @@
 
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
 	<url>
 		<loc>https://5gucl-idrbt.github.io/lab/</loc>
@@ -65,4 +66,77 @@
 		<lastmod>2023-06-05T08:27:02+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
+
+  <url>
+    <loc>https://5gucl-idrbt.github.io/lab/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:content_loc>https://youtu.be/9XCxhBin1A0</video:content_loc>
+      <video:title>Kaizen Secure Voiz Demo</video:title>
+      <video:description>Voice based authentication of the customer by the bank as additional factor of authentication using 5g which provides reduced latency.</video:description>
+      <video:thumbnail_loc>https://youtu.be/9XCxhBin1A0</video:thumbnail_loc>
+    </video:video>
+  </url>
+  
+  <url>
+    <loc>https://5gucl-idrbt.github.io/lab/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:content_loc>https://youtu.be/7an5ZT5ZNLE</video:content_loc>
+      <video:title>Financial Literacy online training and interaction with bank official using AR/VR - Demo</video:title>
+      <video:description>This is software developed by Imaginate</video:description>
+      <video:thumbnail_loc>https://youtu.be/7an5ZT5ZNLE</video:thumbnail_loc>
+    </video:video>
+  </url>
+
+   <url>
+    <loc>https://5gucl-idrbt.github.io/lab/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:content_loc>https://youtu.be/wSMNiGRYl7U</video:content_loc>
+      <video:title>Voice banking through AI Bot</video:title>
+      <video:description>This project is developed by Easiofy</video:description>
+      <video:thumbnail_loc>https://youtu.be/wSMNiGRYl7U</video:thumbnail_loc>
+    </video:video>
+  </url>
+
+   <url>
+    <loc>https://5gucl-idrbt.github.io/lab/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:content_loc>https://youtu.be/X8eI6IulbRo</video:content_loc>
+      <video:title>Reverie - Samvad multilingual assistant</video:title>
+      <video:description>Samvad application demo</video:description>
+      <video:thumbnail_loc>https://youtu.be/X8eI6IulbRo</video:thumbnail_loc>
+    </video:video>This is software developed by Imaginate
+  </url>
+
+   <url>
+    <loc>https://5gucl-idrbt.github.io/lab/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:content_loc>https://youtu.be/h8lB7tAnWBU</video:content_loc>
+      <video:title>AVRM - Automated Verifiable Remittance and Money Exchange Machine</video:title>
+      <video:description>AVRM or AVRPM - Automated Verifiable Remittance and Money Exchange Machine.</video:description>
+      <video:thumbnail_loc>https://youtu.be/h8lB7tAnWBU</video:thumbnail_loc>
+    </video:video>
+  </url>
+
+   <url>
+    <loc>https://5gucl-idrbt.github.io/lab/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:content_loc>https://youtu.be/u1zDqcAXRWQ</video:content_loc>
+      <video:title>5G test bed - 5G Use case lab IDRBT</video:title>
+      <video:description>Open source implementation of  5g Core running in a lab environment.Project supported by 5G Use case lab - IDRBT</video:description>
+      <video:thumbnail_loc>https://youtu.be/u1zDqcAXRWQ</video:thumbnail_loc>
+    </video:video>
+  </url>
+
 </urlset>
